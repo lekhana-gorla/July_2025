@@ -771,3 +771,9 @@ file2 = open(r"C:\Users\lekha\OneDrive\Documents\Desktop\Lekhana.txt", mode="r")
 read_data = file2.readlines()
 print(read_data)
 file2.close()
+
+#new changes
+age=35
+def voter():
+    return age 
+voter()
